@@ -1,7 +1,6 @@
 # AtliQ Grands — Hospitality Revenue Optimization and Market Share Analysis
 
-**Domain:** Hospitality | **Tools:** Python, SQL (SQLite) | **Status:** Analysis Complete — Power BI Dashboard Complete
-
+Tools: Python (Pandas — data cleaning & preprocessing) • SQLite3 via Python (SQL analysis) • Matplotlib & Seaborn (visualisation) • Power BI (dashboard) 
 ---
 
 ## Business Problem
